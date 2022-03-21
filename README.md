@@ -2,7 +2,7 @@
 
 Demonstração do Sinapse Prescrição.
 
-Para documentação, acesse [ajuda.memed.com.br](https://ajuda.memed.com.br).
+Para documentação, acesse <https://doc.memed.com.br/>.
 
 ## Créditos
 
